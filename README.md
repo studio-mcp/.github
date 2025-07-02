@@ -4,7 +4,7 @@
 
 > the smallest possible [MCP] server
 
-Studio turns any command into an MCP server, giving LLMs instant access to tools with a single line in mcp.json.
+Studio turns any command into an MCP server, giving LLMs instant access to tools with a single command in mcp.json.
 
 No files, no hosting, no clutter.
 
