@@ -12,7 +12,9 @@ Your body, too, is wired neural pathways, electrical signals, a pulse. The studi
 
 In this way, the studio becomes not just shelter, but socket, where the immensity of life plugs in and powers through your particular, incandescent corner.
 
-[Turn any command into an MCP with a single word. Possibilities in the smallest places.][studio]
+[Turn any command into an MCP with a single word.][studio]
+
+Possibilities in the smallest places.
 
 [studio]: http://github.com/studio-mcp/studio
 [MCP]: http://modelcontextprotocol.io
