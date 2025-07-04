@@ -1,6 +1,6 @@
 ☀️ Tiny tools for MCPs.
 
-The [studio] is a connector, the smallest possible [MCP].
+[studio] is a connector, the smallest possible [MCP].
 
 Each wall hums with quiet current, wires tucked like thoughts behind plaster, ready to *spark light*, *boil water*, *light a book*, *play a love song*. Flip a switch, and the room answers: radiant heat through old pipes like warmth returning to cold fingers, a soft bulb blooming over your book like a campfire lit in the hush of night.
 
